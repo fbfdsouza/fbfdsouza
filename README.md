@@ -1,6 +1,6 @@
 Hiya 😊
 
-### Bruno Filgueiras here
+### Bruno Filgueiras
 ### Front-end / Mobile Developer at [Greenmile](https://greenmile.com/).
 
  💻 Currently working with 💻
