@@ -1,6 +1,6 @@
+Hiya 😊
 
-
-# Bruno Filgueiras
+# Bruno Filgueiras here
 ## Front-end / Mobile Developer at [Greenmile](https://greenmile.com/).
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram)](https://www.instagram.com/fbfdsouza)
