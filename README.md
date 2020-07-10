@@ -5,7 +5,7 @@ Hiya 😊
 
  💻 Currently working with 💻
 - hybrid mobile development with React/Cordova 
-- manual and automated tests (Cypress)
+- manual testing and automated testing (Cypress)
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram)](https://www.instagram.com/fbfdsouza)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fbfdsouza)
