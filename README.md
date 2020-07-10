@@ -1,7 +1,7 @@
 Hiya 😊
 
-# Bruno Filgueiras here
-## Front-end / Mobile Developer at [Greenmile](https://greenmile.com/).
+### Bruno Filgueiras here
+### Front-end / Mobile Developer at [Greenmile](https://greenmile.com/).
 
  💻 Currently working with 💻
 - hybrid mobile development with React/Cordova 
