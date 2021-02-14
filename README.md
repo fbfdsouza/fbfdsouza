@@ -1,7 +1,8 @@
 Hiya 😊
 
 ### Bruno Filgueiras
-#### Self-Taught Front-end / Mobile Developer at [Greenmile](https://greenmile.com/).
+#### Front-end / Mobile Developer at [Greenmile](https://greenmile.com/).
+#### Bsc in Computer Science - Ceará State University - [UECE](http://www.uece.br/)
 
  💻 Currently working with 💻
 - hybrid mobile development with React/Cordova 
